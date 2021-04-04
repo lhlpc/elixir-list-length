@@ -1,6 +1,8 @@
-# ListLength
+# Elixir List Length
 
-**TODO: Add description**
+## Introduction
+
+This elixir module has a `call` function that returns the length of a given list.
 
 ## Installation
 
@@ -18,4 +20,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/list_length](https://hexdocs.pm/list_length).
-
